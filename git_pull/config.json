@@ -28,5 +28,5 @@
       "interval": "int"
     }
   },
-  "image": "homeassistant/{arch}-addon-git_pull"
+  "image": "mgarmash/{arch}-addon-git_pull"
 }
